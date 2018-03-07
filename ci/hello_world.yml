@@ -3,7 +3,7 @@ resources:
   type: git
   check_every: 2m
   source:
-    uri: git@gitub.com/tatt00u/concourse-class
+    uri: https://gitub.com/tatt00u/concourse-class.git
     branch: master
 - name: 3m
   type: time
